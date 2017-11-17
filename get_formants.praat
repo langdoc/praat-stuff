@@ -1,3 +1,6 @@
+# This is customized from Steven Buss's script: https://github.com/sbuss/get-formants-for-vowels/blob/master/get_formants_for_vowels.praat
+# Edits are done by Niko Partanen in fall 2017
+
 vowel_tier = 3
 label_tier = 2
 
