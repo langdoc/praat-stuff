@@ -10,9 +10,6 @@ form Files
     word sound chain
 endform
 
-#textgrid_file$ = "/Users/niko/langdoc/upperezva_i/praat-phon/corrected/kpv_izva20140404IgusevJA-b-042.TextGrid"
-#sound$ = "/Users/niko/langdoc/upperezva_i/praat-phon/corrected/kpv_izva20140404IgusevJA-b-042.wav"
-
 sound = Read from file: sound$
 textgrid = Read from file: textgrid_file$
 
